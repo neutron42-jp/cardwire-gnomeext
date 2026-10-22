@@ -1,0 +1,7 @@
+{
+  "uuid": "cardwire-dgpu@local",
+  "name": "Cardwire dGPU Status",
+  "description": "Show cardwire dGPU power state (cardwire gpu --power 1) in the top bar.",
+  "version": 1,
+  "shell-version": ["50"]
+}
